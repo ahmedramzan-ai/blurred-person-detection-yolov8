@@ -52,8 +52,6 @@ Main Model:
 
 * blur_finetuned.pt
 
-Dataset:
-https://www.kaggle.com/datasets/ahmedrdata/blurred-person-detection-dataset-yolov8
  
 
 ## Results
